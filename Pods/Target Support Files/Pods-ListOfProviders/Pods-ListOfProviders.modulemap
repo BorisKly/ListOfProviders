@@ -1,0 +1,6 @@
+framework module Pods_ListOfProviders {
+  umbrella header "Pods-ListOfProviders-umbrella.h"
+
+  export *
+  module * { export * }
+}
